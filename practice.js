@@ -6,3 +6,4 @@ function reverseString(str) {
 reverseString("hello");
 
 
+function bubbleSorting(arr){return arr.sort((a,b)=>a-b);}
