@@ -4,4 +4,5 @@ function reverseString(str) {
     console.log(str[i]);
 }
 reverseString("hello");
+press ctrl save and then you see it
 
